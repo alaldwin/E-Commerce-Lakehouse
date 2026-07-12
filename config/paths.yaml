@@ -1,0 +1,4 @@
+paths:
+  logs_dir: logs
+  full_data_dir: data/full_data
+  incremental_dir: data/incremental

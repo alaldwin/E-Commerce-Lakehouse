@@ -1,0 +1,9 @@
+pandas
+numpy
+boto3
+python-dotenv
+pyYAML
+faker
+
+dbt-core
+dbt-databricks

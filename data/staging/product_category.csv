@@ -1,0 +1,21 @@
+category_id,category_name,parent_category,department
+1,Electronics,Phones,Electronics
+2,Electronics,Laptops,Electronics
+3,Electronics,Audio,Electronics
+4,Home & Kitchen,Cookware,Home
+5,Home & Kitchen,Furniture,Home
+6,Home & Kitchen,Storage,Home
+7,Fashion,Men Clothing,Fashion
+8,Fashion,Women Clothing,Fashion
+9,Fashion,Shoes,Fashion
+10,Beauty,Skincare,Beauty
+11,Beauty,Makeup,Beauty
+12,Sports,Fitness,Sports
+13,Sports,Outdoor,Sports
+14,Toys,Kids Toys,Kids
+15,Books,Fiction,Books
+16,Books,Non-Fiction,Books
+17,Groceries,Snacks,Food
+18,Groceries,Beverages,Food
+19,Pet Supplies,Dog,Pets
+20,Pet Supplies,Cat,Pets

@@ -1,0 +1,6 @@
+product_id,product_name,category_id,seller_id,brand,sku,price,cost,stock_quantity,created_at,is_active,batch_date
+10001,Xiaomi USB-C Charger Standard,1,173,Xiaomi,SKU-ELE-010001,538.55,429.37,126,2026-07-12 20:44:28,True,2026-07-12
+10002,Apple USB-C Charger Plus,2,11,Apple,SKU-ELE-010002,22799.71,10365.72,289,2026-07-12 21:15:03,True,2026-07-12
+10003,Whiskas Pet Shampoo Pro,19,67,Whiskas,SKU-PET-010003,1967.88,1012.87,202,2026-07-12 09:40:14,True,2026-07-12
+10004,Asus Portable SSD Mini,3,166,Asus,SKU-ELE-010004,14406.26,9219.19,4,2026-07-12 02:38:28,True,2026-07-12
+10005,IKEA Storage Box Lite,4,145,IKEA,SKU-HOM-010005,4397.82,2157.37,259,2026-07-12 07:45:38,True,2026-07-12
