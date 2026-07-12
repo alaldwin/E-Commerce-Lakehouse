@@ -9,9 +9,9 @@ from utils.config_loader import get_project_root, load_yaml_config
 PATHS_CONFIG = load_yaml_config("paths.yaml")
 TABLES_CONFIG = load_yaml_config("tables.yaml")
 
-FULL_REQUIRED_FILES = TABLES_CONFIG["full_required_files"]
-INCREMENTAL_REQUIRED_FILES = TABLES_CONFIG["incremental_required_files"]
-INCREMENTAL_OPTIONAL_FILES = TABLES_CONFIG["incremental_optional_files"]
+FULL_REQUIRED_FILES = TABLES_CONFIG.get("full_required_files")
+INCREMENTAL_REQUIRED_FILES = TABLES_CONFIG.get("incremental_required_files")
+INCREMENTAL_OPTIONAL_FILES = TABLES_CONFIG.get("incremental_optional_files")
 
 
 def resolve_data_path(relative_path: str) -> Path:
@@ -123,7 +123,7 @@ def ingestion_full() -> dict:
     logging.info("Starting Full Data Ingestion...")
 
     try:
-        full_data_path = PATHS_CONFIG["paths"]["full_data"]
+        full_data_path = PATHS_CONFIG["paths"]["full_data_dir"]
         base_path = resolve_data_path(full_data_path)
 
         if not base_path.exists():
@@ -160,7 +160,7 @@ def ingestion_incremental(batch_date: str = None) -> tuple[dict, str]:
     logging.info("Starting Incremental Data Ingestion...")
 
     try:
-        incremental_data_path = PATHS_CONFIG["paths"]["incremental"]
+        incremental_data_path = PATHS_CONFIG["paths"]["incremental_dir"]
         incremental_root = resolve_data_path(incremental_data_path)
 
         if batch_date is None:

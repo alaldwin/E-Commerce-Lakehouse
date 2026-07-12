@@ -1,23 +1,23 @@
 full_required_files:
-customer: customers.csv
-order_items: order_items.csv
-orders: orders.csv
-payments: payments.csv
-product_category: product_category.csv
-products: products.csv
-returns_refunds: returns_refunds.csv
-sellers: sellers.csv
-shipping_events: shipping_events.csv
+  customer: customers.csv
+  order_items: order_items.csv
+  orders: orders.csv
+  payments: payments.csv
+  product_category: product_category.csv
+  products: products.csv
+  returns_refunds: returns_refunds.csv
+  sellers: sellers.csv
+  shipping_events: shipping_events.csv
 
 incremental_required_files:
-customer: customers.csv
-order_items: order_items.csv
-orders: orders.csv
-payments: payments.csv
-products: products.csv
-returns_refunds: returns_refunds.csv
-sellers: sellers.csv
-shipping_events: shipping_events.csv
+  customer: customers.csv
+  order_items: order_items.csv
+  orders: orders.csv
+  payments: payments.csv
+  products: products.csv
+  returns_refunds: returns_refunds.csv
+  sellers: sellers.csv
+  shipping_events: shipping_events.csv
 
 incremental_optional_files:
-product_category: product_category.csv
+  product_category: product_category.csv

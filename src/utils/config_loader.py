@@ -15,6 +15,8 @@ def load_yaml_config(file_name: str) -> dict:
     """
     config_path = get_project_root() / "config" / file_name
 
+    print(f"Loading config from: {config_path}")
+
     if not config_path.exists():
         raise FileNotFoundError(f"Config file not found: {config_path}")
 

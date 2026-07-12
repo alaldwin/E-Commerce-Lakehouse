@@ -90,7 +90,7 @@ def run_pipeline(load_type: str = "incremental", batch_date: str = None):
 
 if __name__ == "__main__":
     # FULL LOAD
-    # run_pipeline(load_type="full")
+    #run_pipeline(load_type="full")
 
     # LATEST INCREMENTAL BATCH
     run_pipeline(load_type="incremental")
