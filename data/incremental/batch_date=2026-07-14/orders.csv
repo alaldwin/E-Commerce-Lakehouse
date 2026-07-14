@@ -1,0 +1,340 @@
+order_id,customer_id,order_date,order_status,shipping_address_city,shipping_address_state,shipping_address_country,shipping_method,order_total,discount_amount,tax_amount,shipping_fee,batch_date
+50340,2860,2026-07-14 02:30:16,cancelled,Cebu City,Cebu,Philippines,Standard,24943.6,1041.52,2662.5,93.63,2026-07-14
+50341,4451,2026-07-14 11:00:51,delivered,Las Piñas,Metro Manila,Philippines,Standard,4482.55,437.51,474.44,54.45,2026-07-14
+50342,4544,2026-07-14 10:54:00,cancelled,Manila,Metro Manila,Philippines,Standard,18538.19,1927.89,1974.22,112.1,2026-07-14
+50343,877,2026-07-14 20:08:32,delivered,Pasig,Metro Manila,Philippines,Express,20925.1,0.0,2222.54,181.39,2026-07-14
+50344,1668,2026-07-14 23:05:30,cancelled,Baguio,Benguet,Philippines,Standard,3975.99,35.09,415.29,99.93,2026-07-14
+50345,417,2026-07-14 03:21:37,delivered,Muntinlupa,Metro Manila,Philippines,Standard,30348.47,2834.63,3240.48,103.97,2026-07-14
+50346,2733,2026-07-14 04:45:46,delivered,Pasig,Metro Manila,Philippines,Express,3159.75,0.0,318.81,184.19,2026-07-14
+50347,4520,2026-07-14 15:34:17,delivered,Manila,Metro Manila,Philippines,Same Day,14233.54,1654.54,1505.27,184.32,2026-07-14
+50348,1222,2026-07-14 19:51:51,placed,Cebu City,Cebu,Philippines,Standard,155558.86,3273.78,16661.43,52.2,2026-07-14
+50349,343,2026-07-14 11:13:24,delivered,Marikina,Metro Manila,Philippines,Express,65260.33,429.66,6974.94,160.87,2026-07-14
+50350,1721,2026-07-14 09:05:06,delivered,Cebu City,Cebu,Philippines,Same Day,136653.23,2064.1,14617.59,222.38,2026-07-14
+50351,1267,2026-07-14 08:37:09,cancelled,Las Piñas,Metro Manila,Philippines,Express,34957.47,4352.82,3729.4,149.74,2026-07-14
+50352,204,2026-07-14 06:31:49,delivered,Cebu City,Cebu,Philippines,Express,21032.35,131.76,2236.57,157.67,2026-07-14
+50353,2033,2026-07-14 09:42:50,delivered,Parañaque,Metro Manila,Philippines,Standard,47028.39,613.61,5026.43,115.08,2026-07-14
+50354,318,2026-07-14 17:08:14,delivered,Muntinlupa,Metro Manila,Philippines,Standard,277.38,0.0,18.3,106.57,2026-07-14
+50355,1865,2026-07-14 08:06:59,placed,Taguig,Metro Manila,Philippines,Standard,34867.03,1366.14,3723.86,111.0,2026-07-14
+50356,569,2026-07-14 10:09:45,delivered,Baguio,Benguet,Philippines,Express,23669.67,778.48,2520.58,144.25,2026-07-14
+50357,4393,2026-07-14 12:03:24,cancelled,Manila,Metro Manila,Philippines,Standard,51332.49,8366.62,5490.51,87.75,2026-07-14
+50358,2175,2026-07-14 01:23:34,shipped,Davao City,Davao del Sur,Philippines,Express,30309.69,0.0,3223.36,224.97,2026-07-14
+50359,2570,2026-07-14 15:53:19,delivered,Baguio,Benguet,Philippines,Standard,3836.55,0.0,398.98,112.73,2026-07-14
+50360,4724,2026-07-14 06:55:14,delivered,Parañaque,Metro Manila,Philippines,Standard,1077.95,0.0,107.75,72.26,2026-07-14
+50361,4411,2026-07-14 07:10:25,delivered,Manila,Metro Manila,Philippines,Standard,35662.28,0.0,3814.78,57.7,2026-07-14
+50362,1021,2026-07-14 10:56:03,delivered,Bacolod,Negros Occidental,Philippines,Standard,3133.99,0.0,328.72,65.96,2026-07-14
+50363,2423,2026-07-14 20:11:07,shipped,Davao City,Davao del Sur,Philippines,Express,126190.94,921.63,13495.61,231.89,2026-07-14
+50364,1426,2026-07-14 22:24:36,delivered,Davao City,Davao del Sur,Philippines,Express,7358.61,0.0,775.47,120.9,2026-07-14
+50365,2490,2026-07-14 10:26:46,delivered,Las Piñas,Metro Manila,Philippines,Standard,91789.24,9402.57,9827.54,65.55,2026-07-14
+50366,3623,2026-07-14 07:46:50,delivered,Las Piñas,Metro Manila,Philippines,Express,58344.74,449.35,6233.66,163.89,2026-07-14
+50367,2325,2026-07-14 18:46:01,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,129503.96,1691.1,13866.18,86.32,2026-07-14
+50368,1925,2026-07-14 11:18:07,delivered,Taguig,Metro Manila,Philippines,Standard,127352.18,12137.66,13636.79,75.45,2026-07-14
+50369,2006,2026-07-14 17:17:57,delivered,Las Piñas,Metro Manila,Philippines,Standard,12701.76,2735.09,1348.33,117.37,2026-07-14
+50370,4716,2026-07-14 07:04:45,delivered,Davao City,Davao del Sur,Philippines,Standard,37801.71,98.47,4041.1,84.81,2026-07-14
+50371,1209,2026-07-14 23:53:10,delivered,Marikina,Metro Manila,Philippines,Express,67845.93,2176.68,7252.38,157.03,2026-07-14
+50372,1793,2026-07-14 06:24:13,delivered,Parañaque,Metro Manila,Philippines,Standard,12846.94,698.85,1367.33,85.19,2026-07-14
+50373,4567,2026-07-14 09:04:22,cancelled,Manila,Metro Manila,Philippines,Standard,45995.54,0.0,4922.35,53.6,2026-07-14
+50374,3807,2026-07-14 19:20:16,returned,Cagayan de Oro,Misamis Oriental,Philippines,Same Day,5961.22,491.6,602.87,334.41,2026-07-14
+50375,3626,2026-07-14 22:18:21,delivered,Marikina,Metro Manila,Philippines,Standard,26745.21,173.38,2856.53,84.26,2026-07-14
+50376,4489,2026-07-14 16:14:06,cancelled,Parañaque,Metro Manila,Philippines,Standard,50731.65,165.46,5425.14,97.05,2026-07-14
+50377,2026,2026-07-14 23:12:59,delivered,Las Piñas,Metro Manila,Philippines,Standard,36075.75,0.0,3854.19,103.31,2026-07-14
+50378,1960,2026-07-14 09:59:52,delivered,Parañaque,Metro Manila,Philippines,Standard,72145.28,0.0,7722.71,66.63,2026-07-14
+50379,2752,2026-07-14 11:38:24,cancelled,Manila,Metro Manila,Philippines,Standard,2308.7,0.0,236.54,100.98,2026-07-14
+50380,3138,2026-07-14 05:33:48,delivered,Manila,Metro Manila,Philippines,Standard,12181.56,1272.19,1295.06,94.35,2026-07-14
+50381,4446,2026-07-14 16:57:49,delivered,Taguig,Metro Manila,Philippines,Standard,13476.33,146.59,1437.86,56.32,2026-07-14
+50382,4785,2026-07-14 00:42:40,cancelled,Las Piñas,Metro Manila,Philippines,Standard,32773.62,0.0,3499.84,108.47,2026-07-14
+50383,2882,2026-07-14 10:52:19,delivered,Muntinlupa,Metro Manila,Philippines,Standard,130026.11,1807.61,13925.71,52.85,2026-07-14
+50384,4474,2026-07-14 21:57:49,cancelled,Iloilo City,Iloilo,Philippines,Standard,2991.08,309.9,310.03,97.43,2026-07-14
+50385,3979,2026-07-14 01:03:24,delivered,Bacolod,Negros Occidental,Philippines,Express,151780.5,121.66,16242.21,186.57,2026-07-14
+50386,3829,2026-07-14 04:38:48,returned,Baguio,Benguet,Philippines,Same Day,11921.06,1172.72,1245.39,297.46,2026-07-14
+50387,4849,2026-07-14 20:32:55,delivered,Manila,Metro Manila,Philippines,Standard,120230.09,0.0,12873.54,77.07,2026-07-14
+50388,3783,2026-07-14 06:36:59,shipped,Davao City,Davao del Sur,Philippines,Standard,7954.97,1079.04,844.4,73.87,2026-07-14
+50389,2678,2026-07-14 12:17:16,delivered,Davao City,Davao del Sur,Philippines,Express,53827.67,224.25,5741.51,240.21,2026-07-14
+50390,3454,2026-07-14 09:11:05,delivered,Iloilo City,Iloilo,Philippines,Express,11067.07,431.15,1169.31,153.53,2026-07-14
+50391,427,2026-07-14 12:44:30,delivered,Manila,Metro Manila,Philippines,Express,150078.86,0.0,16057.83,205.8,2026-07-14
+50392,2026,2026-07-14 07:15:30,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,54993.22,0.0,5880.64,107.21,2026-07-14
+50393,3880,2026-07-14 04:09:53,delivered,Taguig,Metro Manila,Philippines,Express,23407.41,3183.82,2491.71,151.44,2026-07-14
+50394,3022,2026-07-14 06:06:32,delivered,Parañaque,Metro Manila,Philippines,Express,6579.79,0.0,690.82,132.1,2026-07-14
+50395,1342,2026-07-14 11:19:28,shipped,Quezon City,Metro Manila,Philippines,Standard,38788.68,54.16,4143.82,113.03,2026-07-14
+50396,3075,2026-07-14 14:26:30,cancelled,Taguig,Metro Manila,Philippines,Standard,1359.56,0.0,135.56,94.32,2026-07-14
+50397,1990,2026-07-14 03:42:36,delivered,Pasig,Metro Manila,Philippines,Express,10103.89,0.0,1064.98,164.07,2026-07-14
+50398,4637,2026-07-14 01:29:43,delivered,Davao City,Davao del Sur,Philippines,Standard,27683.44,4166.25,2954.07,112.1,2026-07-14
+50399,2796,2026-07-14 00:27:38,delivered,Muntinlupa,Metro Manila,Philippines,Standard,158615.41,24944.67,16988.52,55.89,2026-07-14
+50400,2968,2026-07-14 23:08:27,cancelled,Iloilo City,Iloilo,Philippines,Standard,47525.83,1975.78,5082.15,92.45,2026-07-14
+50401,4275,2026-07-14 23:40:56,delivered,Las Piñas,Metro Manila,Philippines,Express,120858.79,837.91,12927.06,206.26,2026-07-14
+50402,3809,2026-07-14 15:51:31,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,6000.48,0.0,637.51,50.35,2026-07-14
+50403,2012,2026-07-14 03:09:19,delivered,Iloilo City,Iloilo,Philippines,Express,10215.99,103.81,1074.07,191.34,2026-07-14
+50404,4669,2026-07-14 22:13:17,delivered,Cebu City,Cebu,Philippines,Standard,15988.94,1428.94,1706.06,65.7,2026-07-14
+50405,2663,2026-07-14 06:37:14,delivered,Cebu City,Cebu,Philippines,Standard,66621.36,5818.43,7130.87,66.61,2026-07-14
+50406,4884,2026-07-14 10:03:31,delivered,Baguio,Benguet,Philippines,Standard,45388.29,376.51,4852.08,102.25,2026-07-14
+50407,3330,2026-07-14 17:47:18,delivered,Taguig,Metro Manila,Philippines,Standard,12047.16,1693.72,1279.04,109.45,2026-07-14
+50408,4021,2026-07-14 16:19:03,delivered,Manila,Metro Manila,Philippines,Standard,8767.01,1020.13,931.21,75.74,2026-07-14
+50409,1994,2026-07-14 11:08:55,delivered,Cebu City,Cebu,Philippines,Standard,36293.5,32.26,3881.4,67.08,2026-07-14
+50410,2817,2026-07-14 15:29:31,returned,Baguio,Benguet,Philippines,Standard,16656.33,0.0,1771.95,118.11,2026-07-14
+50411,3718,2026-07-14 09:51:49,delivered,Taguig,Metro Manila,Philippines,Express,8562.03,839.35,895.71,202.05,2026-07-14
+50412,2585,2026-07-14 04:21:10,delivered,Las Piñas,Metro Manila,Philippines,Standard,14308.19,1029.03,1523.34,90.38,2026-07-14
+50413,3967,2026-07-14 10:04:01,delivered,Las Piñas,Metro Manila,Philippines,Standard,24248.09,852.41,2591.19,63.67,2026-07-14
+50414,824,2026-07-14 07:04:03,delivered,Cebu City,Cebu,Philippines,Standard,13564.07,2267.15,1445.83,69.65,2026-07-14
+50415,4376,2026-07-14 04:36:31,delivered,Quezon City,Metro Manila,Philippines,Express,16868.73,843.49,1785.52,203.91,2026-07-14
+50416,1035,2026-07-14 23:13:26,cancelled,Iloilo City,Iloilo,Philippines,Express,106928.12,59.38,11430.63,242.26,2026-07-14
+50417,4703,2026-07-14 10:21:08,delivered,Iloilo City,Iloilo,Philippines,Standard,35810.2,7148.05,3824.59,114.04,2026-07-14
+50418,421,2026-07-14 09:11:32,cancelled,Iloilo City,Iloilo,Philippines,Express,74574.55,12846.14,7963.81,245.67,2026-07-14
+50419,3283,2026-07-14 17:54:14,shipped,Bacolod,Negros Occidental,Philippines,Standard,31414.12,1342.03,3358.23,70.61,2026-07-14
+50420,4611,2026-07-14 11:03:44,shipped,Taguig,Metro Manila,Philippines,Standard,52426.28,0.0,5608.86,76.96,2026-07-14
+50421,3410,2026-07-14 22:04:31,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Express,2064.34,0.0,196.47,230.65,2026-07-14
+50422,3117,2026-07-14 16:24:09,cancelled,Pasig,Metro Manila,Philippines,Standard,4347.6,413.58,459.19,61.86,2026-07-14
+50423,5088,2026-07-14 02:11:34,delivered,Parañaque,Metro Manila,Philippines,Same Day,23774.23,725.84,2510.9,339.15,2026-07-14
+50424,1703,2026-07-14 22:46:27,delivered,Bacolod,Negros Occidental,Philippines,Standard,30123.99,0.0,3216.99,98.72,2026-07-14
+50425,1424,2026-07-14 20:05:50,shipped,Quezon City,Metro Manila,Philippines,Standard,142813.82,633.55,15291.51,93.05,2026-07-14
+50426,4865,2026-07-14 17:06:32,delivered,Taguig,Metro Manila,Philippines,Express,111917.75,8658.46,11971.11,187.38,2026-07-14
+50427,3720,2026-07-14 02:35:29,delivered,Marikina,Metro Manila,Philippines,Express,51943.79,118.25,5542.23,216.3,2026-07-14
+50428,4832,2026-07-14 07:12:08,delivered,Baguio,Benguet,Philippines,Standard,1995.62,0.0,203.23,98.79,2026-07-14
+50429,2177,2026-07-14 05:10:43,shipped,Makati,Metro Manila,Philippines,Standard,21459.97,493.99,2291.23,75.16,2026-07-14
+50430,4663,2026-07-14 10:30:28,delivered,Iloilo City,Iloilo,Philippines,Express,11325.85,1153.95,1189.34,225.31,2026-07-14
+50431,2231,2026-07-14 18:13:17,delivered,Iloilo City,Iloilo,Philippines,Standard,16875.3,1045.09,1798.88,85.79,2026-07-14
+50432,3540,2026-07-14 11:44:07,delivered,Quezon City,Metro Manila,Philippines,Standard,63338.45,7785.66,6776.03,95.5,2026-07-14
+50433,4713,2026-07-14 21:22:35,returned,Las Piñas,Metro Manila,Philippines,Standard,5611.31,0.0,590.59,99.14,2026-07-14
+50434,1436,2026-07-14 17:07:49,delivered,Iloilo City,Iloilo,Philippines,Standard,20983.69,1141.16,2236.22,112.3,2026-07-14
+50435,4796,2026-07-14 15:52:12,delivered,Iloilo City,Iloilo,Philippines,Standard,111744.74,81.06,11964.48,76.29,2026-07-14
+50436,3346,2026-07-14 12:08:07,delivered,Manila,Metro Manila,Philippines,Standard,7502.0,453.21,794.09,90.48,2026-07-14
+50437,4059,2026-07-14 10:29:37,delivered,Davao City,Davao del Sur,Philippines,Standard,238.53,8.16,16.71,82.59,2026-07-14
+50438,2577,2026-07-14 09:11:22,delivered,Las Piñas,Metro Manila,Philippines,Express,40910.81,1295.82,4366.45,157.25,2026-07-14
+50439,10,2026-07-14 23:56:40,cancelled,Iloilo City,Iloilo,Philippines,Standard,35234.07,0.0,3765.29,91.36,2026-07-14
+50440,4248,2026-07-14 13:10:19,delivered,Iloilo City,Iloilo,Philippines,Express,79831.79,116.37,8540.03,124.86,2026-07-14
+50441,1668,2026-07-14 09:43:23,delivered,Marikina,Metro Manila,Philippines,Standard,12478.73,2075.92,1330.7,58.89,2026-07-14
+50442,3971,2026-07-14 04:25:15,placed,Bacolod,Negros Occidental,Philippines,Express,50523.37,5233.25,5389.64,220.1,2026-07-14
+50443,2546,2026-07-14 20:03:19,placed,Davao City,Davao del Sur,Philippines,Standard,5945.54,0.0,630.05,65.11,2026-07-14
+50444,930,2026-07-14 16:48:02,cancelled,Bacolod,Negros Occidental,Philippines,Standard,134567.48,4400.76,14412.2,53.62,2026-07-14
+50445,2391,2026-07-14 18:31:38,delivered,Davao City,Davao del Sur,Philippines,Same Day,108958.93,5880.88,11645.04,271.91,2026-07-14
+50446,1997,2026-07-14 16:37:51,delivered,Davao City,Davao del Sur,Philippines,Same Day,26211.01,2380.12,2775.81,303.44,2026-07-14
+50447,4164,2026-07-14 04:58:12,cancelled,Pasig,Metro Manila,Philippines,Standard,29810.61,0.0,3181.32,118.31,2026-07-14
+50448,4160,2026-07-14 09:43:38,delivered,Pasig,Metro Manila,Philippines,Express,90404.08,4102.2,9668.8,161.98,2026-07-14
+50449,4751,2026-07-14 17:49:38,cancelled,Iloilo City,Iloilo,Philippines,Standard,2941.42,0.0,303.83,105.66,2026-07-14
+50450,2724,2026-07-14 20:05:40,delivered,Davao City,Davao del Sur,Philippines,Same Day,12649.18,347.61,1327.99,254.63,2026-07-14
+50451,1546,2026-07-14 08:41:40,delivered,Taguig,Metro Manila,Philippines,Standard,162277.17,3940.26,17374.26,117.39,2026-07-14
+50452,3875,2026-07-14 13:52:48,delivered,Bacolod,Negros Occidental,Philippines,Standard,5613.13,118.46,590.83,98.72,2026-07-14
+50453,304,2026-07-14 04:35:47,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Express,2671.88,0.0,267.72,173.16,2026-07-14
+50454,3607,2026-07-14 03:37:49,delivered,Iloilo City,Iloilo,Philippines,Express,4954.18,253.07,515.77,140.34,2026-07-14
+50455,3359,2026-07-14 23:50:23,returned,Manila,Metro Manila,Philippines,Express,4139.91,426.14,421.51,205.83,2026-07-14
+50456,2172,2026-07-14 12:19:35,delivered,Davao City,Davao del Sur,Philippines,Express,39075.78,3477.03,4160.53,244.13,2026-07-14
+50457,4372,2026-07-14 13:50:08,returned,Bacolod,Negros Occidental,Philippines,Express,133252.81,1493.29,14256.51,192.07,2026-07-14
+50458,295,2026-07-14 22:28:51,shipped,Bacolod,Negros Occidental,Philippines,Same Day,8375.12,549.67,870.41,251.33,2026-07-14
+50459,741,2026-07-14 15:48:01,returned,Las Piñas,Metro Manila,Philippines,Standard,1025.08,81.0,101.8,74.92,2026-07-14
+50460,2454,2026-07-14 01:03:14,placed,Las Piñas,Metro Manila,Philippines,Standard,114671.73,459.64,12280.79,51.01,2026-07-14
+50461,3071,2026-07-14 15:40:50,shipped,Baguio,Benguet,Philippines,Standard,7749.48,129.02,824.6,53.22,2026-07-14
+50462,1476,2026-07-14 06:11:20,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,738.39,0.0,73.45,52.85,2026-07-14
+50463,1973,2026-07-14 18:07:10,cancelled,Makati,Metro Manila,Philippines,Standard,28026.87,0.0,2991.11,109.88,2026-07-14
+50464,2081,2026-07-14 16:43:56,delivered,Quezon City,Metro Manila,Philippines,Same Day,1756.27,245.98,160.25,260.61,2026-07-14
+50465,4478,2026-07-14 05:45:06,shipped,Cebu City,Cebu,Philippines,Standard,11670.35,210.63,1241.49,83.14,2026-07-14
+50466,3476,2026-07-14 09:06:20,delivered,Pasig,Metro Manila,Philippines,Same Day,63149.03,640.62,6738.78,253.75,2026-07-14
+50467,3959,2026-07-14 03:52:59,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,134149.42,13804.1,14363.03,94.46,2026-07-14
+50468,2419,2026-07-14 00:47:55,returned,Bacolod,Negros Occidental,Philippines,Standard,85260.72,181.21,9126.91,76.22,2026-07-14
+50469,4637,2026-07-14 01:47:08,cancelled,Parañaque,Metro Manila,Philippines,Express,21334.39,0.0,2264.25,201.36,2026-07-14
+50470,2345,2026-07-14 08:22:42,delivered,Cebu City,Cebu,Philippines,Standard,7537.27,0.0,798.43,85.22,2026-07-14
+50471,5087,2026-07-14 09:07:30,delivered,Parañaque,Metro Manila,Philippines,Standard,3022.69,0.0,312.08,109.95,2026-07-14
+50472,323,2026-07-14 11:14:52,delivered,Quezon City,Metro Manila,Philippines,Express,129508.59,4102.87,13862.08,129.17,2026-07-14
+50473,739,2026-07-14 10:44:40,delivered,Davao City,Davao del Sur,Philippines,Standard,21794.99,0.0,2325.0,94.97,2026-07-14
+50474,4419,2026-07-14 13:19:13,delivered,Marikina,Metro Manila,Philippines,Express,31746.81,0.0,3388.22,123.45,2026-07-14
+50475,2106,2026-07-14 17:32:36,returned,Pasig,Metro Manila,Philippines,Express,55987.62,4984.42,5977.8,194.81,2026-07-14
+50476,3837,2026-07-14 02:44:29,shipped,Taguig,Metro Manila,Philippines,Same Day,6218.47,0.0,639.91,245.99,2026-07-14
+50477,4566,2026-07-14 13:19:02,shipped,Davao City,Davao del Sur,Philippines,Standard,71648.81,1799.78,7667.86,82.08,2026-07-14
+50478,1013,2026-07-14 16:33:29,delivered,Parañaque,Metro Manila,Philippines,Standard,6417.83,566.48,675.21,115.9,2026-07-14
+50479,3044,2026-07-14 03:56:41,delivered,Iloilo City,Iloilo,Philippines,Standard,85676.7,0.0,9171.39,77.03,2026-07-14
+50480,4600,2026-07-14 11:56:32,cancelled,Taguig,Metro Manila,Philippines,Standard,9372.44,1862.25,992.04,113.37,2026-07-14
+50481,3804,2026-07-14 11:00:08,delivered,Manila,Metro Manila,Philippines,Standard,19380.8,719.31,2070.64,54.86,2026-07-14
+50482,305,2026-07-14 11:04:53,returned,Manila,Metro Manila,Philippines,Standard,95022.9,0.0,10174.91,57.05,2026-07-14
+50483,4404,2026-07-14 04:56:21,delivered,Cebu City,Cebu,Philippines,Standard,25273.66,568.39,2697.41,97.81,2026-07-14
+50484,1266,2026-07-14 15:06:19,delivered,Muntinlupa,Metro Manila,Philippines,Standard,35253.25,70.56,3769.38,72.33,2026-07-14
+50485,2292,2026-07-14 01:11:28,delivered,Taguig,Metro Manila,Philippines,Standard,6095.61,1158.45,647.57,51.63,2026-07-14
+50486,1935,2026-07-14 13:12:17,shipped,Bacolod,Negros Occidental,Philippines,Standard,11440.16,551.94,1218.26,69.73,2026-07-14
+50487,2939,2026-07-14 02:12:16,delivered,Taguig,Metro Manila,Philippines,Same Day,136176.91,15082.47,14559.64,286.92,2026-07-14
+50488,3726,2026-07-14 03:20:15,delivered,Bacolod,Negros Occidental,Philippines,Standard,127358.8,7836.16,13634.72,101.45,2026-07-14
+50489,2733,2026-07-14 08:52:05,returned,Las Piñas,Metro Manila,Philippines,Standard,113650.84,3079.29,12170.19,62.42,2026-07-14
+50490,4541,2026-07-14 07:32:32,delivered,Muntinlupa,Metro Manila,Philippines,Standard,55956.17,1763.61,5982.52,119.34,2026-07-14
+50491,1209,2026-07-14 21:41:56,placed,Muntinlupa,Metro Manila,Philippines,Same Day,34108.69,0.0,3627.7,250.15,2026-07-14
+50492,4426,2026-07-14 09:07:33,delivered,Manila,Metro Manila,Philippines,Standard,13015.53,919.56,1386.61,73.86,2026-07-14
+50493,2935,2026-07-14 08:39:46,delivered,Quezon City,Metro Manila,Philippines,Standard,9830.31,0.0,1040.91,115.15,2026-07-14
+50494,1039,2026-07-14 15:19:36,delivered,Parañaque,Metro Manila,Philippines,Standard,11263.57,595.65,1195.82,102.56,2026-07-14
+50495,2966,2026-07-14 18:41:11,delivered,Iloilo City,Iloilo,Philippines,Standard,75906.68,0.0,8121.84,102.82,2026-07-14
+50496,5039,2026-07-14 01:34:43,delivered,Marikina,Metro Manila,Philippines,Standard,49087.17,719.97,5247.21,113.18,2026-07-14
+50497,256,2026-07-14 02:12:52,returned,Muntinlupa,Metro Manila,Philippines,Standard,2520.26,0.0,260.88,85.37,2026-07-14
+50498,885,2026-07-14 17:51:00,delivered,Iloilo City,Iloilo,Philippines,Express,8696.09,1604.84,914.41,161.61,2026-07-14
+50499,2639,2026-07-14 22:08:50,shipped,Makati,Metro Manila,Philippines,Standard,78901.79,0.0,8441.69,112.69,2026-07-14
+50500,4796,2026-07-14 19:57:54,delivered,Davao City,Davao del Sur,Philippines,Standard,101466.4,0.0,10863.12,77.24,2026-07-14
+50501,4142,2026-07-14 22:02:34,delivered,Las Piñas,Metro Manila,Philippines,Express,110722.38,10046.7,11848.98,131.87,2026-07-14
+50502,4517,2026-07-14 07:49:43,delivered,Marikina,Metro Manila,Philippines,Standard,82742.45,43.34,8852.78,116.5,2026-07-14
+50503,3716,2026-07-14 14:31:02,delivered,Manila,Metro Manila,Philippines,Standard,19534.36,3027.02,2082.87,94.23,2026-07-14
+50504,2089,2026-07-14 13:37:40,returned,Bacolod,Negros Occidental,Philippines,Standard,42755.51,0.0,4572.23,81.39,2026-07-14
+50505,700,2026-07-14 03:23:39,delivered,Parañaque,Metro Manila,Philippines,Express,283.95,0.0,13.48,158.12,2026-07-14
+50506,4558,2026-07-14 02:11:01,delivered,Baguio,Benguet,Philippines,Express,9022.59,867.72,944.48,207.43,2026-07-14
+50507,3366,2026-07-14 12:52:26,cancelled,Las Piñas,Metro Manila,Philippines,Express,28317.38,0.0,3010.67,217.81,2026-07-14
+50508,422,2026-07-14 10:28:20,delivered,Cebu City,Cebu,Philippines,Standard,3342.7,250.94,346.87,105.27,2026-07-14
+50509,1743,2026-07-14 05:38:00,delivered,Taguig,Metro Manila,Philippines,Standard,29386.92,33.66,3139.53,84.61,2026-07-14
+50510,4557,2026-07-14 13:22:56,shipped,Pasig,Metro Manila,Philippines,Express,100054.65,174.94,10699.63,191.44,2026-07-14
+50511,4596,2026-07-14 22:38:10,delivered,Bacolod,Negros Occidental,Philippines,Standard,8260.54,425.07,877.07,74.56,2026-07-14
+50512,2191,2026-07-14 01:03:14,delivered,Parañaque,Metro Manila,Philippines,Same Day,217183.02,0.0,23248.19,199.9,2026-07-14
+50513,2876,2026-07-14 00:13:20,delivered,Makati,Metro Manila,Philippines,Standard,50323.41,3482.2,5381.8,93.28,2026-07-14
+50514,252,2026-07-14 03:20:26,delivered,Taguig,Metro Manila,Philippines,Standard,22284.37,1129.29,2381.71,55.09,2026-07-14
+50515,2793,2026-07-14 05:43:51,delivered,Parañaque,Metro Manila,Philippines,Express,48673.64,1751.16,5201.04,130.58,2026-07-14
+50516,4650,2026-07-14 21:42:28,shipped,Quezon City,Metro Manila,Philippines,Standard,24173.42,350.97,2577.25,119.06,2026-07-14
+50517,5062,2026-07-14 01:48:42,delivered,Pasig,Metro Manila,Philippines,Express,118086.91,1162.74,12634.15,168.18,2026-07-14
+50518,3979,2026-07-14 22:06:10,delivered,Pasig,Metro Manila,Philippines,Express,6063.95,1078.99,623.66,243.14,2026-07-14
+50519,933,2026-07-14 12:34:02,delivered,Pasig,Metro Manila,Philippines,Standard,20113.12,534.14,2146.8,76.34,2026-07-14
+50520,2527,2026-07-14 01:39:12,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,14702.46,0.0,1569.28,55.85,2026-07-14
+50521,2470,2026-07-14 07:41:26,delivered,Las Piñas,Metro Manila,Philippines,Standard,108841.21,1448.31,11653.02,79.7,2026-07-14
+50522,983,2026-07-14 00:16:53,delivered,Davao City,Davao del Sur,Philippines,Standard,138397.22,0.0,14816.12,113.44,2026-07-14
+50523,4363,2026-07-14 08:22:41,delivered,Muntinlupa,Metro Manila,Philippines,Standard,101627.04,165.31,10879.56,84.48,2026-07-14
+50524,347,2026-07-14 15:52:56,placed,Marikina,Metro Manila,Philippines,Express,15887.36,364.55,1688.58,127.32,2026-07-14
+50525,4717,2026-07-14 15:37:47,delivered,Parañaque,Metro Manila,Philippines,Standard,9445.02,130.03,1005.73,58.23,2026-07-14
+50526,3319,2026-07-14 00:45:33,returned,Makati,Metro Manila,Philippines,Express,80670.62,0.0,8621.38,204.4,2026-07-14
+50527,2965,2026-07-14 03:12:31,delivered,Manila,Metro Manila,Philippines,Standard,122244.99,14997.64,13085.1,117.35,2026-07-14
+50528,3281,2026-07-14 19:04:36,shipped,Muntinlupa,Metro Manila,Philippines,Express,531.16,0.0,38.83,168.73,2026-07-14
+50529,1816,2026-07-14 12:07:35,delivered,Manila,Metro Manila,Philippines,Standard,6809.07,612.18,717.67,110.8,2026-07-14
+50530,4347,2026-07-14 18:34:00,delivered,Las Piñas,Metro Manila,Philippines,Standard,153412.17,3544.75,16424.39,117.89,2026-07-14
+50531,1210,2026-07-14 08:36:08,shipped,Pasig,Metro Manila,Philippines,Standard,16892.37,0.0,1804.22,53.02,2026-07-14
+50532,1253,2026-07-14 23:51:58,shipped,Las Piñas,Metro Manila,Philippines,Standard,77100.16,15813.83,8254.82,55.17,2026-07-14
+50533,4619,2026-07-14 21:05:52,delivered,Marikina,Metro Manila,Philippines,Express,56601.15,517.91,6038.05,246.01,2026-07-14
+50534,2590,2026-07-14 05:29:46,delivered,Iloilo City,Iloilo,Philippines,Standard,19239.21,2519.64,2051.27,94.06,2026-07-14
+50535,2251,2026-07-14 21:31:58,shipped,Baguio,Benguet,Philippines,Standard,5370.0,567.2,566.59,81.82,2026-07-14
+50536,3703,2026-07-14 01:22:09,shipped,Muntinlupa,Metro Manila,Philippines,Standard,299.37,0.0,22.01,93.93,2026-07-14
+50537,740,2026-07-14 22:23:30,delivered,Davao City,Davao del Sur,Philippines,Standard,51598.66,0.0,5518.69,90.9,2026-07-14
+50538,337,2026-07-14 16:22:27,cancelled,Cagayan de Oro,Misamis Oriental,Philippines,Standard,2517.13,0.0,257.58,113.08,2026-07-14
+50539,3897,2026-07-14 18:15:15,delivered,Quezon City,Metro Manila,Philippines,Standard,11073.97,0.0,1180.8,53.18,2026-07-14
+50540,2814,2026-07-14 03:04:13,delivered,Makati,Metro Manila,Philippines,Standard,1882.21,0.0,194.2,69.67,2026-07-14
+50541,3587,2026-07-14 15:59:55,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,28368.37,0.0,3026.98,116.53,2026-07-14
+50542,2318,2026-07-14 14:06:19,delivered,Cebu City,Cebu,Philippines,Express,3151.38,0.0,312.39,235.73,2026-07-14
+50543,2742,2026-07-14 02:23:59,delivered,Baguio,Benguet,Philippines,Standard,67578.51,1068.57,7230.55,93.41,2026-07-14
+50544,4938,2026-07-14 05:28:29,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Same Day,3743.03,0.0,376.7,227.15,2026-07-14
+50545,2542,2026-07-14 23:53:10,delivered,Davao City,Davao del Sur,Philippines,Standard,137511.75,672.62,14724.57,82.46,2026-07-14
+50546,695,2026-07-14 11:16:17,delivered,Bacolod,Negros Occidental,Philippines,Express,15082.45,1365.47,1602.04,130.11,2026-07-14
+50547,4313,2026-07-14 03:24:09,delivered,Davao City,Davao del Sur,Philippines,Standard,12018.12,0.0,1274.99,118.21,2026-07-14
+50548,2971,2026-07-14 11:14:43,delivered,Taguig,Metro Manila,Philippines,Same Day,10895.56,2334.87,1135.38,298.69,2026-07-14
+50549,3984,2026-07-14 06:59:26,delivered,Makati,Metro Manila,Philippines,Standard,23223.64,265.73,2480.57,71.67,2026-07-14
+50550,829,2026-07-14 18:29:03,delivered,Muntinlupa,Metro Manila,Philippines,Standard,1364.82,82.96,135.74,97.93,2026-07-14
+50551,2759,2026-07-14 22:30:06,shipped,Davao City,Davao del Sur,Philippines,Standard,15405.13,166.05,1638.36,113.76,2026-07-14
+50552,5118,2026-07-14 06:01:37,delivered,Quezon City,Metro Manila,Philippines,Standard,643.95,0.0,57.47,107.58,2026-07-14
+50553,1946,2026-07-14 16:10:22,delivered,Las Piñas,Metro Manila,Philippines,Standard,9695.95,1580.32,1028.89,92.94,2026-07-14
+50554,1960,2026-07-14 11:16:02,returned,Las Piñas,Metro Manila,Philippines,Same Day,11068.81,676.66,1149.67,338.56,2026-07-14
+50555,1590,2026-07-14 13:23:33,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,1534.72,290.2,158.74,53.17,2026-07-14
+50556,2309,2026-07-14 13:54:12,delivered,Davao City,Davao del Sur,Philippines,Express,36647.09,88.07,3908.37,168.94,2026-07-14
+50557,4954,2026-07-14 05:02:20,cancelled,Quezon City,Metro Manila,Philippines,Express,25255.59,2567.45,2679.35,248.35,2026-07-14
+50558,4543,2026-07-14 03:44:06,delivered,Baguio,Benguet,Philippines,Standard,107349.22,0.0,11495.22,60.53,2026-07-14
+50559,1314,2026-07-14 09:55:55,delivered,Baguio,Benguet,Philippines,Express,102822.38,2220.55,10998.52,169.52,2026-07-14
+50560,752,2026-07-14 08:05:02,delivered,Marikina,Metro Manila,Philippines,Same Day,3391.7,411.08,328.77,323.16,2026-07-14
+50561,3399,2026-07-14 01:56:20,delivered,Cebu City,Cebu,Philippines,Standard,13376.78,0.0,1421.58,108.68,2026-07-14
+50562,669,2026-07-14 13:39:00,delivered,Cebu City,Cebu,Philippines,Express,19084.7,50.02,2026.15,173.93,2026-07-14
+50563,2747,2026-07-14 05:19:02,shipped,Pasig,Metro Manila,Philippines,Express,47265.94,299.29,5039.31,232.41,2026-07-14
+50564,1137,2026-07-14 17:04:47,delivered,Quezon City,Metro Manila,Philippines,Standard,13581.02,2972.56,1442.28,119.76,2026-07-14
+50565,1767,2026-07-14 05:26:37,delivered,Parañaque,Metro Manila,Philippines,Standard,20000.56,98.77,2131.79,103.83,2026-07-14
+50566,2361,2026-07-14 08:39:07,delivered,Quezon City,Metro Manila,Philippines,Standard,450.11,0.0,35.78,116.13,2026-07-14
+50567,5103,2026-07-14 16:38:34,shipped,Muntinlupa,Metro Manila,Philippines,Standard,43630.37,0.0,4662.95,109.48,2026-07-14
+50568,135,2026-07-14 23:00:31,delivered,Taguig,Metro Manila,Philippines,Standard,52395.93,0.0,5606.64,67.31,2026-07-14
+50569,13,2026-07-14 22:23:04,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,28137.01,2348.2,3004.78,92.43,2026-07-14
+50570,702,2026-07-14 19:03:34,returned,Manila,Metro Manila,Philippines,Standard,27875.84,1425.46,2978.65,75.07,2026-07-14
+50571,4159,2026-07-14 20:10:33,placed,Muntinlupa,Metro Manila,Philippines,Standard,202693.1,1580.97,21707.86,86.42,2026-07-14
+50572,3170,2026-07-14 13:35:29,delivered,Quezon City,Metro Manila,Philippines,Express,5386.59,90.29,557.03,187.62,2026-07-14
+50573,2825,2026-07-14 08:46:44,delivered,Bacolod,Negros Occidental,Philippines,Express,107030.45,9952.23,11442.48,233.96,2026-07-14
+50574,2724,2026-07-14 04:51:26,placed,Baguio,Benguet,Philippines,Express,12652.51,0.0,1337.15,172.45,2026-07-14
+50575,1435,2026-07-14 16:54:59,returned,Iloilo City,Iloilo,Philippines,Express,72463.17,0.0,7749.19,137.42,2026-07-14
+50576,517,2026-07-14 16:39:48,placed,Taguig,Metro Manila,Philippines,Express,68487.48,555.53,7314.57,218.17,2026-07-14
+50577,344,2026-07-14 11:29:25,cancelled,Baguio,Benguet,Philippines,Same Day,4967.71,0.0,501.67,285.45,2026-07-14
+50578,4449,2026-07-14 17:14:09,delivered,Las Piñas,Metro Manila,Philippines,Standard,37235.08,894.71,3983.09,59.55,2026-07-14
+50579,392,2026-07-14 23:52:28,delivered,Manila,Metro Manila,Philippines,Standard,273.47,0.0,23.83,51.02,2026-07-14
+50580,3277,2026-07-14 16:00:37,cancelled,Davao City,Davao del Sur,Philippines,Same Day,27631.53,0.0,2934.85,239.6,2026-07-14
+50581,4065,2026-07-14 18:06:51,delivered,Las Piñas,Metro Manila,Philippines,Standard,52827.13,192.84,5651.75,77.46,2026-07-14
+50582,677,2026-07-14 15:27:20,shipped,Cagayan de Oro,Misamis Oriental,Philippines,Standard,6001.45,316.72,630.87,113.29,2026-07-14
+50583,2632,2026-07-14 03:44:07,shipped,Bacolod,Negros Occidental,Philippines,Standard,61433.02,850.09,6572.9,85.98,2026-07-14
+50584,4937,2026-07-14 15:30:51,delivered,Iloilo City,Iloilo,Philippines,Standard,8893.32,81.29,944.52,77.76,2026-07-14
+50585,2889,2026-07-14 22:23:09,returned,Pasig,Metro Manila,Philippines,Standard,38025.32,684.15,4062.32,110.37,2026-07-14
+50586,3328,2026-07-14 13:13:39,delivered,Parañaque,Metro Manila,Philippines,Same Day,3786.06,0.0,369.07,341.42,2026-07-14
+50587,1170,2026-07-14 22:07:15,delivered,Iloilo City,Iloilo,Philippines,Standard,11981.4,0.0,1277.26,60.3,2026-07-14
+50588,1934,2026-07-14 23:29:22,delivered,Davao City,Davao del Sur,Philippines,Standard,24908.14,0.0,2656.42,114.86,2026-07-14
+50589,3686,2026-07-14 13:30:23,delivered,Las Piñas,Metro Manila,Philippines,Standard,38718.0,1205.93,4141.06,68.08,2026-07-14
+50590,4338,2026-07-14 13:21:36,delivered,Bacolod,Negros Occidental,Philippines,Standard,69364.46,877.86,7419.2,118.6,2026-07-14
+50591,930,2026-07-14 00:56:36,delivered,Iloilo City,Iloilo,Philippines,Standard,18500.12,235.87,1974.33,73.01,2026-07-14
+50592,4602,2026-07-14 04:17:15,delivered,Pasig,Metro Manila,Philippines,Standard,42139.32,2183.43,4509.0,55.31,2026-07-14
+50593,5013,2026-07-14 10:23:51,delivered,Iloilo City,Iloilo,Philippines,Standard,43912.34,2911.73,4698.4,60.63,2026-07-14
+50594,607,2026-07-14 16:27:30,delivered,Parañaque,Metro Manila,Philippines,Same Day,9672.67,629.34,1005.4,288.95,2026-07-14
+50595,2619,2026-07-14 12:38:57,delivered,Baguio,Benguet,Philippines,Standard,52468.94,0.0,5614.95,62.73,2026-07-14
+50596,2458,2026-07-14 05:44:04,delivered,Marikina,Metro Manila,Philippines,Express,172591.36,400.82,18466.58,236.58,2026-07-14
+50597,4168,2026-07-14 08:09:51,shipped,Taguig,Metro Manila,Philippines,Standard,87519.47,6350.29,9366.72,96.73,2026-07-14
+50598,4048,2026-07-14 00:57:25,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,131625.32,9443.89,14096.09,61.83,2026-07-14
+50599,4520,2026-07-14 04:43:29,delivered,Manila,Metro Manila,Philippines,Standard,11572.32,195.73,1233.21,62.39,2026-07-14
+50600,3922,2026-07-14 19:08:23,delivered,Davao City,Davao del Sur,Philippines,Standard,84312.91,0.0,9027.5,56.21,2026-07-14
+50601,2598,2026-07-14 23:23:12,shipped,Iloilo City,Iloilo,Philippines,Standard,17399.99,1516.54,1855.15,85.24,2026-07-14
+50602,4517,2026-07-14 23:17:39,delivered,Las Piñas,Metro Manila,Philippines,Standard,50742.94,166.1,5431.09,52.75,2026-07-14
+50603,454,2026-07-14 04:31:14,delivered,Pasig,Metro Manila,Philippines,Standard,1899.96,0.0,192.21,105.96,2026-07-14
+50604,1848,2026-07-14 12:35:53,cancelled,Baguio,Benguet,Philippines,Express,8019.63,492.17,845.25,130.63,2026-07-14
+50605,2053,2026-07-14 07:08:49,delivered,Baguio,Benguet,Philippines,Standard,5127.65,0.0,537.48,111.15,2026-07-14
+50606,2481,2026-07-14 22:22:14,delivered,Baguio,Benguet,Philippines,Standard,3733.54,0.0,387.76,114.46,2026-07-14
+50607,4757,2026-07-14 05:36:50,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Express,94469.85,1554.54,10097.68,224.81,2026-07-14
+50608,4618,2026-07-14 01:29:59,delivered,Quezon City,Metro Manila,Philippines,Standard,138275.56,0.0,14804.27,102.38,2026-07-14
+50609,4725,2026-07-14 09:38:08,delivered,Las Piñas,Metro Manila,Philippines,Standard,140345.62,8424.82,15028.04,83.92,2026-07-14
+50610,249,2026-07-14 18:07:58,cancelled,Baguio,Benguet,Philippines,Standard,717.31,95.37,68.73,75.82,2026-07-14
+50611,2475,2026-07-14 17:35:00,delivered,Las Piñas,Metro Manila,Philippines,Standard,87527.71,2993.38,9367.01,102.32,2026-07-14
+50612,598,2026-07-14 02:10:52,delivered,Davao City,Davao del Sur,Philippines,Standard,9111.88,204.11,969.02,67.67,2026-07-14
+50613,2787,2026-07-14 22:05:16,shipped,Muntinlupa,Metro Manila,Philippines,Express,19280.53,0.0,2042.98,212.74,2026-07-14
+50614,2830,2026-07-14 14:31:00,shipped,Cebu City,Cebu,Philippines,Standard,17893.85,0.0,1905.13,112.66,2026-07-14
+50615,2615,2026-07-14 08:48:05,delivered,Pasig,Metro Manila,Philippines,Standard,13892.62,0.0,1479.3,85.82,2026-07-14
+50616,794,2026-07-14 01:50:32,delivered,Davao City,Davao del Sur,Philippines,Standard,43580.41,3481.43,4660.62,81.32,2026-07-14
+50617,1309,2026-07-14 11:55:17,cancelled,Parañaque,Metro Manila,Philippines,Standard,27867.32,0.0,2976.43,87.28,2026-07-14
+50618,1306,2026-07-14 18:08:28,returned,Iloilo City,Iloilo,Philippines,Express,42097.76,560.69,4493.87,155.0,2026-07-14
+50619,4075,2026-07-14 00:50:37,shipped,Davao City,Davao del Sur,Philippines,Standard,29142.82,1675.2,3115.5,64.8,2026-07-14
+50620,1973,2026-07-14 07:49:59,delivered,Quezon City,Metro Manila,Philippines,Standard,477.94,41.22,44.95,58.38,2026-07-14
+50621,4895,2026-07-14 23:49:15,delivered,Pasig,Metro Manila,Philippines,Standard,9026.16,1793.77,957.28,91.55,2026-07-14
+50622,881,2026-07-14 15:41:22,shipped,Pasig,Metro Manila,Philippines,Express,36924.05,0.0,3933.83,208.28,2026-07-14
+50623,2998,2026-07-14 01:38:50,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,3284.17,0.0,340.6,105.24,2026-07-14
+50624,2365,2026-07-14 02:40:37,delivered,Iloilo City,Iloilo,Philippines,Express,3440.79,257.43,348.32,189.82,2026-07-14
+50625,5106,2026-07-14 22:14:50,shipped,Manila,Metro Manila,Philippines,Standard,32290.21,4544.6,3453.35,58.93,2026-07-14
+50626,2778,2026-07-14 20:18:36,cancelled,Las Piñas,Metro Manila,Philippines,Standard,2912.55,0.0,304.57,69.86,2026-07-14
+50627,4171,2026-07-14 14:36:50,delivered,Quezon City,Metro Manila,Philippines,Standard,35699.14,2196.76,3814.71,95.21,2026-07-14
+50628,2729,2026-07-14 17:14:54,delivered,Makati,Metro Manila,Philippines,Standard,36822.01,5112.37,3932.46,119.06,2026-07-14
+50629,5023,2026-07-14 11:35:50,delivered,Cagayan de Oro,Misamis Oriental,Philippines,Standard,43047.68,2058.85,4606.13,57.12,2026-07-14
+50630,4156,2026-07-14 18:33:29,delivered,Parañaque,Metro Manila,Philippines,Standard,45460.41,2289.1,4864.2,61.25,2026-07-14
+50631,137,2026-07-14 13:24:41,delivered,Manila,Metro Manila,Philippines,Standard,1912.28,139.13,197.39,69.96,2026-07-14
+50632,219,2026-07-14 21:43:58,delivered,Bacolod,Negros Occidental,Philippines,Express,105716.71,3417.18,11301.44,236.58,2026-07-14
+50633,4781,2026-07-14 17:29:33,delivered,Bacolod,Negros Occidental,Philippines,Standard,74852.52,1707.18,8011.48,78.73,2026-07-14
+50634,1985,2026-07-14 01:08:58,delivered,Parañaque,Metro Manila,Philippines,Standard,7196.26,530.32,764.83,57.84,2026-07-14
+50635,3613,2026-07-14 11:25:16,delivered,Davao City,Davao del Sur,Philippines,Standard,163767.98,9783.65,17533.94,117.86,2026-07-14
+50636,5010,2026-07-14 17:10:14,cancelled,Parañaque,Metro Manila,Philippines,Express,8670.25,1593.15,912.51,153.53,2026-07-14
+50637,4250,2026-07-14 07:32:56,delivered,Bacolod,Negros Occidental,Philippines,Standard,23592.3,0.0,2521.11,61.96,2026-07-14
+50638,2571,2026-07-14 06:18:19,delivered,Baguio,Benguet,Philippines,Standard,163427.96,0.0,17499.77,96.81,2026-07-14
+50639,2166,2026-07-14 22:12:43,delivered,Taguig,Metro Manila,Philippines,Standard,27418.74,2116.12,2928.08,90.01,2026-07-14
+50640,1843,2026-07-14 10:50:08,delivered,Parañaque,Metro Manila,Philippines,Express,15528.28,1571.1,1648.28,144.32,2026-07-14
+50641,4006,2026-07-14 11:32:35,delivered,Baguio,Benguet,Philippines,Standard,8839.58,0.0,939.31,72.66,2026-07-14
+50642,4698,2026-07-14 19:46:37,delivered,Davao City,Davao del Sur,Philippines,Same Day,49999.19,0.0,5330.02,252.32,2026-07-14
+50643,1200,2026-07-14 10:34:30,placed,Parañaque,Metro Manila,Philippines,Standard,20471.39,0.0,2184.2,85.53,2026-07-14
+50644,3624,2026-07-14 23:52:59,delivered,Iloilo City,Iloilo,Philippines,Standard,131251.94,643.49,14056.49,58.04,2026-07-14
+50645,4413,2026-07-14 09:52:17,cancelled,Parañaque,Metro Manila,Philippines,Standard,10300.72,0.0,1093.71,92.74,2026-07-14
+50646,5044,2026-07-14 21:21:57,delivered,Quezon City,Metro Manila,Philippines,Standard,45722.53,1574.61,4889.88,83.68,2026-07-14
+50647,1908,2026-07-14 01:54:40,shipped,Cebu City,Cebu,Philippines,Standard,24433.84,0.0,2608.56,87.28,2026-07-14
+50648,1127,2026-07-14 00:11:19,returned,Marikina,Metro Manila,Philippines,Standard,13026.83,315.13,1387.85,73.56,2026-07-14
+50649,3897,2026-07-14 17:23:00,delivered,Las Piñas,Metro Manila,Philippines,Standard,1711.12,0.0,176.97,59.41,2026-07-14
+50650,485,2026-07-14 03:15:25,delivered,Taguig,Metro Manila,Philippines,Express,65246.64,0.0,6976.97,128.24,2026-07-14
+50651,306,2026-07-14 06:22:26,delivered,Muntinlupa,Metro Manila,Philippines,Same Day,57047.44,11142.59,6087.07,234.8,2026-07-14
+50652,298,2026-07-14 14:27:14,delivered,Makati,Metro Manila,Philippines,Express,29494.99,2057.66,3137.83,208.6,2026-07-14
+50653,76,2026-07-14 10:51:50,delivered,Manila,Metro Manila,Philippines,Standard,5135.97,883.74,540.46,91.69,2026-07-14
+50654,4451,2026-07-14 19:05:23,delivered,Makati,Metro Manila,Philippines,Standard,23570.3,599.88,2516.94,78.83,2026-07-14
+50655,1580,2026-07-14 04:06:04,delivered,Parañaque,Metro Manila,Philippines,Standard,66054.69,1508.43,7064.96,115.07,2026-07-14
+50656,1526,2026-07-14 00:30:46,delivered,Las Piñas,Metro Manila,Philippines,Standard,975.52,0.0,92.93,108.14,2026-07-14
+50657,1583,2026-07-14 06:23:22,delivered,Bacolod,Negros Occidental,Philippines,Express,56829.72,4075.23,6065.86,215.01,2026-07-14
+50658,4222,2026-07-14 11:56:22,shipped,Bacolod,Negros Occidental,Philippines,Standard,30328.72,0.0,3237.11,115.68,2026-07-14
+50659,1152,2026-07-14 17:23:00,delivered,Taguig,Metro Manila,Philippines,Standard,6980.89,0.0,741.24,62.69,2026-07-14
+50660,1930,2026-07-14 16:15:54,delivered,Cebu City,Cebu,Philippines,Standard,24286.01,438.28,2591.16,101.88,2026-07-14
+50661,4694,2026-07-14 00:24:58,delivered,Cebu City,Cebu,Philippines,Standard,9636.06,1109.76,1020.76,108.93,2026-07-14
+50662,969,2026-07-14 16:56:40,delivered,Davao City,Davao del Sur,Philippines,Same Day,58277.27,2240.19,6210.22,315.2,2026-07-14
+50663,2548,2026-07-14 04:16:29,delivered,Pasig,Metro Manila,Philippines,Standard,24914.62,219.13,2662.83,61.5,2026-07-14
+50664,1796,2026-07-14 04:51:47,delivered,Iloilo City,Iloilo,Philippines,Standard,29476.43,693.45,3147.84,96.56,2026-07-14
+50665,4500,2026-07-14 17:08:32,delivered,Las Piñas,Metro Manila,Philippines,Express,47142.66,192.05,5033.14,166.65,2026-07-14
+50666,4881,2026-07-14 02:58:50,delivered,Baguio,Benguet,Philippines,Standard,42611.4,0.0,4553.57,111.4,2026-07-14
+50667,4622,2026-07-14 04:05:07,shipped,Baguio,Benguet,Philippines,Standard,162373.63,22561.83,17388.52,80.74,2026-07-14
+50668,4397,2026-07-14 05:27:21,delivered,Muntinlupa,Metro Manila,Philippines,Standard,5902.76,0.0,624.25,76.39,2026-07-14
+50669,1683,2026-07-14 21:13:54,delivered,Marikina,Metro Manila,Philippines,Standard,26673.36,2223.08,2850.24,71.1,2026-07-14
+50670,456,2026-07-14 16:30:32,shipped,Davao City,Davao del Sur,Philippines,Standard,2702.22,46.74,280.4,85.19,2026-07-14
+50671,4578,2026-07-14 16:50:04,delivered,Pasig,Metro Manila,Philippines,Standard,5645.81,305.41,592.8,112.97,2026-07-14
+50672,25,2026-07-14 07:56:00,delivered,Quezon City,Metro Manila,Philippines,Standard,110024.11,1707.68,11776.14,113.45,2026-07-14
+50673,523,2026-07-14 19:42:11,returned,Marikina,Metro Manila,Philippines,Same Day,1214.18,117.67,108.68,199.87,2026-07-14
+50674,3868,2026-07-14 01:09:19,delivered,Makati,Metro Manila,Philippines,Express,166969.94,0.0,17863.69,242.18,2026-07-14
+50675,3444,2026-07-14 13:38:01,returned,Davao City,Davao del Sur,Philippines,Express,65619.69,0.0,7009.08,201.6,2026-07-14
+50676,3093,2026-07-14 13:40:36,shipped,Bacolod,Negros Occidental,Philippines,Standard,346.59,0.0,29.27,73.44,2026-07-14
+50677,2849,2026-07-14 04:19:09,delivered,Baguio,Benguet,Philippines,Standard,25224.37,0.0,2696.21,59.75,2026-07-14
+50678,1825,2026-07-14 00:07:35,delivered,Pasig,Metro Manila,Philippines,Express,897.46,0.0,72.24,223.22,2026-07-14

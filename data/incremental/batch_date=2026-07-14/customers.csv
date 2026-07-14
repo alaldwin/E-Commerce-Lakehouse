@@ -1,0 +1,61 @@
+customer_id,first_name,last_name,email,phone,signup_date,city,state,country,postal_code,customer_segment,batch_date
+5061,Richard,Logan,richard.logan5061@gmail.com,637448228969,2026-07-14,Pasig,Metro Manila,Philippines,5012,Returning,2026-07-14
+5062,James,Patterson,james.patterson5062@outlook.com,633153558068,2026-07-14,Bacolod,Negros Occidental,Philippines,9935,New,2026-07-14
+5063,Elizabeth,Mccullough,elizabeth.mccullough5063@gmail.com,636798135333,2026-07-14,Quezon City,Metro Manila,Philippines,2535,Returning,2026-07-14
+5064,Robert,Sanders,robert.sanders5064@outlook.com,639479576073,2026-07-14,Quezon City,Metro Manila,Philippines,4257,Returning,2026-07-14
+5065,Catherine,Lane,catherine.lane5065@yahoo.com,638535338956,2026-07-14,Taguig,Metro Manila,Philippines,8359,Returning,2026-07-14
+5066,Debra,Wong,debra.wong5066@yahoo.com,634818291395,2026-07-14,Quezon City,Metro Manila,Philippines,3615,New,2026-07-14
+5067,Carrie,Jackson,carrie.jackson5067@gmail.com,632817305870,2026-07-14,Taguig,Metro Manila,Philippines,6514,New,2026-07-14
+5068,Karl,Monroe,karl.monroe5068@yahoo.com,630200209414,2026-07-14,Cebu City,Cebu,Philippines,6635,Returning,2026-07-14
+5069,April,Gonzales,april.gonzales5069@gmail.com,632079625003,2026-07-14,Parañaque,Metro Manila,Philippines,8527,VIP,2026-07-14
+5070,James,Dorsey,james.dorsey5070@yahoo.com,633563541528,2026-07-14,Davao City,Davao del Sur,Philippines,2291,Returning,2026-07-14
+5071,Cheryl,Wright,cheryl.wright5071@gmail.com,635259945668,2026-07-14,Cagayan de Oro,Misamis Oriental,Philippines,6925,Returning,2026-07-14
+5072,Regina,Cardenas,regina.cardenas5072@gmail.com,632481827873,2026-07-14,Quezon City,Metro Manila,Philippines,4733,Returning,2026-07-14
+5073,Taylor,Strickland,taylor.strickland5073@yahoo.com,632265417430,2026-07-14,Muntinlupa,Metro Manila,Philippines,2654,Returning,2026-07-14
+5074,Samantha,Murillo,samantha.murillo5074@yahoo.com,636483303571,2026-07-14,Muntinlupa,Metro Manila,Philippines,6977,New,2026-07-14
+5075,Julie,Bates,julie.bates5075@gmail.com,636213346261,2026-07-14,Bacolod,Negros Occidental,Philippines,5374,Returning,2026-07-14
+5076,Alice,Lee,alice.lee5076@gmail.com,638137046611,2026-07-14,Makati,Metro Manila,Philippines,9751,Returning,2026-07-14
+5077,Sean,Davidson,sean.davidson5077@gmail.com,632695268694,2026-07-14,Pasig,Metro Manila,Philippines,4598,New,2026-07-14
+5078,Dylan,Hall,dylan.hall5078@yahoo.com,634166651294,2026-07-14,Quezon City,Metro Manila,Philippines,6168,New,2026-07-14
+5079,Heather,Molina,heather.molina5079@outlook.com,632281344404,2026-07-14,Marikina,Metro Manila,Philippines,6155,Returning,2026-07-14
+5080,Abigail,Johnson,abigail.johnson5080@yahoo.com,631659347518,2026-07-14,Marikina,Metro Manila,Philippines,8517,New,2026-07-14
+5081,Jeffrey,Brennan,jeffrey.brennan5081@outlook.com,639886182045,2026-07-14,Parañaque,Metro Manila,Philippines,9830,Returning,2026-07-14
+5082,Anthony,Thomas,anthony.thomas5082@gmail.com,638899340127,2026-07-14,Marikina,Metro Manila,Philippines,7543,VIP,2026-07-14
+5083,Jose,Molina,jose.molina5083@gmail.com,634213100739,2026-07-14,Makati,Metro Manila,Philippines,9348,Returning,2026-07-14
+5084,Janet,Meza,janet.meza5084@outlook.com,630296083639,2026-07-14,Muntinlupa,Metro Manila,Philippines,2796,New,2026-07-14
+5085,Tanya,Schmidt,tanya.schmidt5085@gmail.com,630033851129,2026-07-14,Bacolod,Negros Occidental,Philippines,7916,New,2026-07-14
+5086,Vanessa,Edwards,vanessa.edwards5086@yahoo.com,635662136697,2026-07-14,Cagayan de Oro,Misamis Oriental,Philippines,8668,VIP,2026-07-14
+5087,Susan,Adams,susan.adams5087@outlook.com,639619164432,2026-07-14,Muntinlupa,Metro Manila,Philippines,1188,Returning,2026-07-14
+5088,Mark,Mcbride,mark.mcbride5088@yahoo.com,639015178092,2026-07-14,Las Piñas,Metro Manila,Philippines,5371,New,2026-07-14
+5089,Andrew,Phillips,andrew.phillips5089@gmail.com,635162196834,2026-07-14,Davao City,Davao del Sur,Philippines,3591,VIP,2026-07-14
+5090,Dustin,Turner,dustin.turner5090@gmail.com,635530620185,2026-07-14,Marikina,Metro Manila,Philippines,5315,Returning,2026-07-14
+5091,Wesley,Sanchez,wesley.sanchez5091@outlook.com,634266398977,2026-07-14,Manila,Metro Manila,Philippines,5889,Returning,2026-07-14
+5092,David,Shelton,david.shelton5092@outlook.com,633213095027,2026-07-14,Makati,Metro Manila,Philippines,7126,VIP,2026-07-14
+5093,Michael,Walker,michael.walker5093@outlook.com,639388746105,2026-07-14,Marikina,Metro Manila,Philippines,9689,New,2026-07-14
+5094,Barbara,Perez,barbara.perez5094@yahoo.com,639001792582,2026-07-14,Quezon City,Metro Manila,Philippines,2832,New,2026-07-14
+5095,Kelly,James,kelly.james5095@outlook.com,637320151584,2026-07-14,Taguig,Metro Manila,Philippines,2290,Returning,2026-07-14
+5096,Melissa,Clark,melissa.clark5096@gmail.com,636981644191,2026-07-14,Manila,Metro Manila,Philippines,9727,Returning,2026-07-14
+5097,Deborah,Gray,deborah.gray5097@outlook.com,633405363910,2026-07-14,Baguio,Benguet,Philippines,3705,Returning,2026-07-14
+5098,Mark,Gonzalez,mark.gonzalez5098@outlook.com,630480981561,2026-07-14,Davao City,Davao del Sur,Philippines,4470,Returning,2026-07-14
+5099,Amber,Lee,amber.lee5099@outlook.com,634872032006,2026-07-14,Parañaque,Metro Manila,Philippines,6107,Returning,2026-07-14
+5100,Kevin,Lloyd,kevin.lloyd5100@gmail.com,638268360272,2026-07-14,Iloilo City,Iloilo,Philippines,9479,New,2026-07-14
+5101,Melanie,Rogers,melanie.rogers5101@outlook.com,634732772856,2026-07-14,Manila,Metro Manila,Philippines,6539,Returning,2026-07-14
+5102,Alec,Gomez,alec.gomez5102@gmail.com,634479245719,2026-07-14,Cagayan de Oro,Misamis Oriental,Philippines,4608,Returning,2026-07-14
+5103,Craig,Myers,craig.myers5103@gmail.com,635880973710,2026-07-14,Quezon City,Metro Manila,Philippines,4750,Returning,2026-07-14
+5104,Deborah,Allen,deborah.allen5104@yahoo.com,638429918702,2026-07-14,Manila,Metro Manila,Philippines,9423,Returning,2026-07-14
+5105,Dennis,Freeman,dennis.freeman5105@outlook.com,634272195849,2026-07-14,Taguig,Metro Manila,Philippines,9834,VIP,2026-07-14
+5106,Christopher,Sandoval,christopher.sandoval5106@yahoo.com,637856356362,2026-07-14,Cagayan de Oro,Misamis Oriental,Philippines,8744,Returning,2026-07-14
+5107,Carl,Schultz,carl.schultz5107@outlook.com,639668447181,2026-07-14,Taguig,Metro Manila,Philippines,2545,New,2026-07-14
+5108,Richard,Nunez,richard.nunez5108@outlook.com,631076883200,2026-07-14,Davao City,Davao del Sur,Philippines,7735,New,2026-07-14
+5109,Tina,Barrett,tina.barrett5109@yahoo.com,635383990270,2026-07-14,Bacolod,Negros Occidental,Philippines,2612,Returning,2026-07-14
+5110,Melinda,Jenkins,melinda.jenkins5110@gmail.com,634518054207,2026-07-14,Las Piñas,Metro Manila,Philippines,2790,New,2026-07-14
+5111,Pamela,Cowan,pamela.cowan5111@gmail.com,635256475321,2026-07-14,Iloilo City,Iloilo,Philippines,3296,New,2026-07-14
+5112,Carmen,French,carmen.french5112@outlook.com,638896906568,2026-07-14,Taguig,Metro Manila,Philippines,2235,New,2026-07-14
+5113,David,Owens,david.owens5113@gmail.com,637324712429,2026-07-14,Bacolod,Negros Occidental,Philippines,9856,VIP,2026-07-14
+5114,Scott,Brooks,scott.brooks5114@yahoo.com,635200497607,2026-07-14,Muntinlupa,Metro Manila,Philippines,4872,Returning,2026-07-14
+5115,Daniel,Sanchez,daniel.sanchez5115@gmail.com,633876036132,2026-07-14,Taguig,Metro Manila,Philippines,7570,New,2026-07-14
+5116,Rhonda,Meyer,rhonda.meyer5116@yahoo.com,638218117156,2026-07-14,Davao City,Davao del Sur,Philippines,5345,New,2026-07-14
+5117,Shannon,Colon,shannon.colon5117@gmail.com,635636656931,2026-07-14,Parañaque,Metro Manila,Philippines,8973,New,2026-07-14
+5118,Haley,Walls,haley.walls5118@outlook.com,633404776720,2026-07-14,Quezon City,Metro Manila,Philippines,9883,New,2026-07-14
+5119,Debbie,Mathews,debbie.mathews5119@outlook.com,635852356563,2026-07-14,Quezon City,Metro Manila,Philippines,8811,New,2026-07-14
+5120,Ruben,Marshall,ruben.marshall5120@gmail.com,635678129633,2026-07-14,Baguio,Benguet,Philippines,2312,Returning,2026-07-14

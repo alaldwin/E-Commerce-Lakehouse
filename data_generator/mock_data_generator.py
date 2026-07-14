@@ -326,7 +326,7 @@ def generate_customers(n_customers, start_customer_id, batch_date):
             "first_name": first_name,
             "last_name": last_name,
             "email": generate_email(first_name, last_name, customer_id),
-            "phone": fake.msisdn()[:11],
+            "phone": "63" + fake.msisdn()[:10],
             "signup_date": signup_dt.date(),
             "city": city,
             "state": state,
