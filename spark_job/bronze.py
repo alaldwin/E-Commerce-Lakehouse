@@ -15,8 +15,9 @@ bucket_name = "ecommercelakehouse"
 
 
 
-
-
+# ---------------
+# Bronze Customer
+# ---------------
 data_path = "customer"
 
 table_name = f"{catalog}.{table_schema}.brnz_{data_path}"
@@ -50,6 +51,9 @@ df_incremental = (
     .withColumn("ingestion_timestamp", f.current_timestamp())
 )
 
+print("-" * 20)
+print("Customer Table")
+print("-" * 20)
 
 # Create Bronze Table (first Run)
 if not spark.catalog.tableExists(table_name):
@@ -126,6 +130,9 @@ df_incremental = (
     .withColumn("ingestion_timestamp", f.current_timestamp())
 )
 
+print("-" * 20)
+print("Order Items Table")
+print("-" * 20)
 
 # Create Bronze Table (first Run)
 if not spark.catalog.tableExists(table_name):
